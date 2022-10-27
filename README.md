@@ -1,6 +1,6 @@
 # ESP32 LVGL demo ported to gCore
 
-This repository contains the LVGL v7 demo project for ESP32 with modifications to support [gCore](https://github.com/danjulio/gCore2).  It requires Espressif IDF v4.2.
+This repository contains the LVGL v7 demo project for ESP32 with modifications to support [gCore](https://github.com/danjulio/gCore).  It requires Espressif IDF v4.2.
 
 ![gCore LVGL demo](images/gcore.png)
 
